@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/md_orange_600</color>
+    <color name="colorPrimaryDark">@color/md_orange_800</color>
+    <color name="colorAccent">@color/md_amber_a700</color>
+
+    <color name="colorRed">#ff0000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#0000ff</color>
+    <color name="colorGreen">#00ff00</color>
+    <color name="colorTransparent">#00000000</color>
+</resources>
